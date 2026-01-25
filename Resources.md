@@ -2,7 +2,7 @@
 
 ## books
 
-[Reinforcement Learning from Human Feedback: A Short Intro to RLHF and Post-Training focused on Large Language Models, Nathan Lambert 2026](https://github.com/dimitarpg13/reinforcement_learning_in_agentic_workflows/blob/main/articles/RLHF/reinforcement_learning_from_human_feedback/Reinforcement_Learning_from_Human_Feedback_A_short_introduction_to_RLHF_and_post-training_focused_on_language_models_Lambert_2026.pdf)
+[Reinforcement Learning from Human Feedback: A Short Intro to RLHF and Post-Training focused on Large Language Models, Nathan Lambert 2026](https://github.com/dimitarpg13/reinforcement_learning_in_agentic_workflows/blob/main/articles/RLHF/Reinforcement_Learning_from_Human_Feedback_A_short_introduction_to_RLHF_and_post-training_focused_on_language_models_Lambert_2026.pdf)
 
 
 ## articles
