@@ -49,7 +49,7 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcem
 
 [ORPO: Monolythic Preference Optimization without Reference Model, Hong, 2024](https://github.com/dimitarpg13/reinforcement_learning_in_agentic_workflows/blob/main/articles/RLHF/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
 
-### Human-Like Reasoning in LLMs via pure RL Training
+### Human-Like Reasoning in LLMs via pure RL
 
 ### Reinforcement Learning - Based Feedback Loop in Agentic Workflows
 
