@@ -51,5 +51,32 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/reinforcem
 
 ### Human-Like Reasoning in LLMs via pure RL
 
+[Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
+
+[Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
+
+[TTRL: Test-Time Reinforcement Learning, Y. Zuo et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/TTRL-Test-Time_Reinforcement_Learning_Zuo_2025.pdf)
+
+[Absolute Zero: Reinforced Self-play Reasoning with Zero Data, A. Zhao et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Absolute_Zero-Reinforced_Self-play_Reasoning_with_Zero_Data_Zhao_2025.pdf)
+
+[Process Reward Models That Think, M. Khaliffa et al, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Proces_Reward_Models_That_Think_Khalifa_2025.pdf)
+
+[Concise Reasoning via Reinforcement Learning, M Fatemi et al, Wand AI, 2025](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Concise_Reasoning_via_Reinforcement_Learning_Fatemi_2025.pdf)
+
+[Asymptotics of Language Model Alignment, Joy Qiping Yang et al, U. of Sydney, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Asymptotics_of_Language_Model_Alignment_Yang_2024.pdf)
+
+[RL on Incorrect Synthetic Data Scales The Efficiency of LLM Math Reasoning by Eight-Fold, Amrith Setlur et al, CMU, DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/RL_on_Incorrect_Synthetic_Data_Scales_the_Efficiency_of_LLM_Math_Reasoning_by_Eight-Fold_Setlur_CMU_2024.pdf)
+
+[Improve Mathematical Reasoning in Language Models by Automated Process Supervision, L. Luo et al, DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Improve_Mathematical_Reasoning_in_Language_Models_by_Automated_Process_Supervision_Luo_2024.pdf)
+
+[Solving math word problems with processand outcome-based feedback, J. Uesato et al, DeepMind, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
+
+[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_2024.pdf)
+
+[STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, E. Zelikman et al, 2022](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Zelikman_2022.pdf)
+
+[Training Language Models to Self-Correct via Reinforcement Learning,  Aviral Kumar et al, Google DeepMind, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/human_like_reasoning/Training_Language_Models_to_Self-Correct_via_Reinforcement_Learning_Kumar_2024.pdf)
+
+
 ### Reinforcement Learning - Based Feedback Loop in Agentic Workflows
 
