@@ -24,3 +24,4 @@ articles/bdi_model/Methods_for_Building_Belief_Functions_BFTA2019_Thierry_Denceu
 articles/bdi_model/Mindscapes_Philosophy_Science_and_the_Mind_Martin_Carrier_1997.pdf filter=lfs diff=lfs merge=lfs -text
 articles/bdi_model/NIPS-2001-playing-is-believing-the-role-of-beliefs-in-multi-agent-learning-Paper.pdf filter=lfs diff=lfs merge=lfs -text
 books/A_Course_in_Reinforcement_Learning_2ndEd_Bertsekas_2026.pdf filter=lfs diff=lfs merge=lfs -text
+articles/bdi_model/Reasoning_with_Belief_Functions_An_Analysis_of_Compatibility_Pearl_1990.pdf filter=lfs diff=lfs merge=lfs -text
